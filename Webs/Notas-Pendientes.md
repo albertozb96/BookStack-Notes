@@ -1,0 +1,7 @@
+- Como configurar bookstack
+- Como configurar hover, ovh
+- Como configurar vscode server
+- Como configurar windows
+- SSH, como configurar, y numero de claves publicas/privadas
+- Terminales windows para linux like
+- Como configurar telegram-proxy
